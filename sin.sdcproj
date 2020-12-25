@@ -196,14 +196,14 @@ Num=2
 MainIndex=0
 [Dataset_0]
 Name=Training
-URI=C:\cygwin64\home\Administrator\minomako-onnx\sin_Training.csv
+URI=E:\minomako-onnx\sin_Training.csv
 Shuffle=1
 EnableCache=0
 ImageNormalization=0
 NumData=361
 [Dataset_1]
 Name=Validation
-URI=C:\cygwin64\home\Administrator\minomako-onnx\sin_Validation.csv
+URI=E:\minomako-onnx\sin_Validation.csv
 Shuffle=1
 EnableCache=0
 ImageNormalization=0
